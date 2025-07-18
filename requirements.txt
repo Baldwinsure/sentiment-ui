@@ -3,6 +3,3 @@ tensorflow
 numpy
 scikit-learn
 requests
-pickle
-numpy 
-pandas
